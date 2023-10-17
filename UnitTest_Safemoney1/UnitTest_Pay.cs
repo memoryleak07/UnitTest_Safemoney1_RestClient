@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SafemoneyRestClient.Models;
 using SafemoneyRestClient;
+using SafemoneyRestClient.Models;
 using System.Collections.Generic;
 
 namespace UnitTest_Safemoney1

@@ -1,0 +1,14 @@
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\appsettings.json
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\SafemoneyRestClient.exe.config
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\SafemoneyRestClient.exe
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\SafemoneyRestClient.pdb
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.dll
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.xml
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.AssemblyReference.cache
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.CoreCompileInputs.cache
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.CopyComplete
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.exe
+D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.pdb
