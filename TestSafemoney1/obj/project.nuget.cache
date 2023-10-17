@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pf+h5xDqijrs8YHEWfuhWCNNUHAsBjVuFUnVtmW+IcNC+fnD9v5Wr42wjF9RC4aQgRTcklCpC4PTRrjzvXkKw==",
+  "success": true,
+  "projectFilePath": "D:\\repo\\PERS\\ConsoleApp_SM_test1_RestClient\\TestSafemoney1\\TestSafemoney1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
