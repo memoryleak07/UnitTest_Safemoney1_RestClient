@@ -1,0 +1,14 @@
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll

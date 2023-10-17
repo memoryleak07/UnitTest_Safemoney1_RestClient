@@ -12,3 +12,16 @@ D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestCl
 D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.CopyComplete
 D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.exe
 D:\repo\WORK\RestClient\RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.pdb
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\appsettings.json
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\SafemoneyRestClient.exe.config
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\SafemoneyRestClient.exe
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\SafemoneyRestClient.pdb
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.AssemblyReference.cache
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.csproj.CopyComplete
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.exe
+C:\Users\Marco\Source\Repos\UnitTest_Safemoney1_RestClient\SafemoneyRestClient\obj\Debug\SafemoneyRestClient.pdb

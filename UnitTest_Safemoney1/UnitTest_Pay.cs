@@ -19,13 +19,16 @@ namespace UnitTest_Safemoney1
         };
 
         [TestInitialize]
-        public void TestInitialize() // Initialize the RestClient
+        public void TestInitialize() // Initialize the RestClient and set AssistMode = false
         {
             client = new RestClient("http://192.168.34.212:7409", "pin", "0000");
-            // Set AssistMode: OFF
-            //ReadSettings readSettings = client.GetSettings();
-            //Console.WriteLine(readSettings.SettingsInfo.AssistMode);
-
+            // Set AssistMode OFF
+            ReadSettings newSetting = new ReadSettings
+            {
+                SettingsInfo = { AssistMode = false }
+            };
+            ReadSettings res = client.PutSettings(newSetting);
+            Assert.IsFalse(res.SettingsInfo.AssistMode);
         }
         [TestMethod]
         public void Test_CreatePay()
@@ -38,8 +41,8 @@ namespace UnitTest_Safemoney1
         {
             ReadCreatedPayResp resCP = client.CreatePayment(body);
             ReadCreatedPayResp resBP = client.BeginPayment(new BeginPay { Token = resCP.Token });
-            ReadResultPayResp resGP = client.AbortPayment(new BeginPay { Token = resBP.Token });
-            Assert.AreEqual(transactionStatusList[5], resGP.TransactionStatus);
+            ReadResultPayResp resAP = client.AbortPayment(new BeginPay { Token = resBP.Token });
+            Assert.AreEqual(transactionStatusList[5], resAP.TransactionStatus);
         }
         //[TestMethod]
         //public void Test_DelPayment()

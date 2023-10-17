@@ -121,5 +121,10 @@ namespace SafemoneyRestClient
             var res = GetModel("settings");
             return ManageResponse<ReadSettings>(res);
         }
+        public ReadSettings PutSettings(ReadSettings body)
+        {
+            var res = PutModel(body, "settings");
+            return ManageResponse<ReadSettings>(res);
+        }
     }
 }

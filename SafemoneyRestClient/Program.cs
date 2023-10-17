@@ -2,9 +2,9 @@
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            // Il tuo codice inizia da qui
+
         }
     }
 }
